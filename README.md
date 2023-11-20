@@ -4,9 +4,9 @@
 
 ![16 Degrees with 1.5 Thumb (Including Keycaps)](images/16-degrees-with-1.5-thumb-including-keycaps.png)
 
-## 16 Degrees with 1u Thumb (Including Keycaps)
+## 16 Degrees with 1u Thumb
 
-![16 Degrees with 1u Thumb (Including Keycaps)](images/16-degrees-with-1u-thumb-including-keycaps.png)
+![16 Degrees with 1u Thumb](images/16-degrees-with-1u-thumb.png)
 
 ## 45 Degrees with 1.5 Thumb
 
@@ -15,6 +15,10 @@
 ## 45 Degrees with 1.5 Thumb (Including Keycaps)
 
 ![45 Degrees with 1.5 Thumb (Including Keycaps)](images/45-degrees-with-1.5-thumb-including-keycaps.png)
+
+## Single pcb
+
+![Single pcb](images/single-pcb.jpg)
 
 ## Completed Handwired - Both Sides
 
