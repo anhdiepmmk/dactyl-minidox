@@ -51,3 +51,11 @@
 ## Welding Quality on the Back of ProMicro Controller
 
 ![Welding Quality on the Back of ProMicro Controller](images/welding-quality-on-the-back-of-promicro-controller.jpg)
+
+## Housing 3d printed
+
+![Housing 3d printed](images/housing-3d-printed.jpg)
+
+## Housing with keycaps
+
+![Housing with keycaps](images/housing-with-keycaps.jpg)
